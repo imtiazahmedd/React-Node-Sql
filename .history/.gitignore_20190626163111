@@ -1,11 +1,11 @@
 
 // server ignore files
 
-
+./server/node_modules
 ./server/.DS_Store
 ./server/history/
 
 
 //web ignore files
 
-./web/node_modules
+web/node_modules
